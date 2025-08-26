@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/21981797/README.md)
 # Jaspal's Portfolio (GitHub Pages)
 
 A clean, single‑repo portfolio you can publish with GitHub Pages.
